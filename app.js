@@ -23,3 +23,7 @@ app.get("/register", function (req, res) {
 app.post("/procesarregistro", function (req, res) {
     res.sendFile(path.join(__dirname, "./views/home.html"))
 })
+
+app.post("/procesarlogin", function (req, res) {
+    res.sendFile(path.join(__dirname, "./views/home.html"))
+})

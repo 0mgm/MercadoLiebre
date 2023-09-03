@@ -99,9 +99,10 @@ main section {
 }
 
 .tiulares {
-    color: gray;
+    color: black;
     margin-top: 10px;
     font-size: 24px;
+    text-align: center;
 }
 
 main section article {
@@ -328,7 +329,7 @@ form button {
     }
 
     .nav-header2__caja li a {
-        font-size: 11px;
+        font-size: 13.4px;
     }
 
     main section {
